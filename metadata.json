@@ -1,0 +1,6 @@
+{
+  "name": "Waroeng Rasa - Menu Makanan & Minuman",
+  "description": "Aplikasi katalog menu makanan & minuman restoran berbasis QR code meja yang simpel, cepat, dan responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
